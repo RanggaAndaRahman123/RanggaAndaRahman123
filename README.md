@@ -1,4 +1,4 @@
-![image](https://github.com/RanggaAndaRahman123/RanggaAndaRahman123/assets/126890594/62947e8e-b4eb-41fc-bfa0-d100d3f26005)- 👋 Hi, I’m @RanggaAndaRahman123
+(https://github.com/RanggaAndaRahman123/RanggaAndaRahman123/assets/126890594/62947e8e-b4eb-41fc-b- 👋 Hi, I’m @RanggaAndaRahman123
 - 👀 I’m interested in Theoretical Physics and Machine Learning
 - 🌱 I’m currently learning Undergraduate Computational Physics
 - 💞️ I’m looking to collaborate on Machine Learning, Black Hole Simulation, Data Analytics
